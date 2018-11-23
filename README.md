@@ -1,7 +1,9 @@
 # PupilAnalysis
 
-# Variance Analysis
+Preprocessing
 
-# Statistical significance teste
+Variance Analysis
 
-# Average curve of the pupil sign
+Statistical significance teste
+
+Average curve of the pupil sign
