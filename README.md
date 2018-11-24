@@ -49,3 +49,7 @@ Example with 220 seconds of recording. Signal before and after pre-processing.
 
 ![Image](scr/AverageCurve.png)
 
+## Paper that used this code:  
+- [Classificação automática do desempenho humano em tarefas cognitivas por meio da mensuração do diâmetro pupilar](https://ssl4799.websiteseguro.com/swge5/PROCEEDINGS/PDF/CBA2018-0441.pdf)
+- The Influence of Emotional Characteristic Stimuli on Human Pupillary Behavior (Coming soon)
+- Eye-tracking data analysis during cognitive task (Coming soon)
