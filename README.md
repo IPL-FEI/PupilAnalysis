@@ -15,7 +15,6 @@ In addition, after pre-processing step, the [PCA and MLDA](https://github.com/IP
 PCA and MLDA direct in R (coming soon)
 
 ## Preprocessing
-#### How it works:
 
 In this step is done the reconstruction of the missing data intervals.
 
@@ -43,15 +42,11 @@ Example with 220 seconds of recording. Signal before and after pre-processing.
 
 ![Image](scr/Pre4.png)
 
-
 ## Variance Analysis
-#### How it works:
 
 ## Statistical significance teste
-#### How it works:
 
 ## Average curve of the pupil sign
-#### How it works:
 
 ![Image](scr/AverageCurve.png)
 
