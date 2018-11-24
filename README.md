@@ -19,22 +19,28 @@ PCA and MLDA direct in R (coming soon)
 
 In this step is done the reconstruction of the missing data intervals.
 
-Example of missing data by blink of an eye.
+Example of missing data by blink of an eye:
+
 ![Image](scr/MissingData.png)
 
 Step 1: Location of missing data intervals.
+
 ![Image](scr/Pre0.png)
 
 Removal of outliers and preservation of the positions of the data.
+
 ![Image](scr/Pre1.png)
 
 Step 2: Data interpolation.
+
 ![Image](scr/Pre2.png)
 
 Step 3: Smoothing for remove noise.
+
 ![Image](scr/Pre3.png)
 
 Example with 220 seconds of recording. Signal before and after pre-processing.
+
 ![Image](scr/Pre4.png)
 
 
