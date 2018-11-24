@@ -9,7 +9,7 @@ This code shows how to do:
 - Filter to extract only the signal of interest;
 - Function to extract interval of interest;
 - Signal Loss Analysis;
-####- Pre-processing;
+###- Pre-processing;
 - Variance Analysis;
 - Statistical significance teste;
 - Average curve of the pupil sign.
