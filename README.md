@@ -29,3 +29,5 @@ Under contruction
 #### How it works:
 Under contruction
 
+![Image](scr/AverageCurve.png)
+
