@@ -2,7 +2,8 @@
 ### Under contruction
 
 PupilAnalysis is a code developed in the R platform for pupil signal processing.
-This code requires a database (.csv), which in our research was obtained through an ocular tracking device (Tobii TX300).
+This code requires a database (.csv), which in our research was obtained through an eye tracking device (Tobii TX300).
+
 This code shows how to do:
 - Preprocessing
 - Variance Analysis
