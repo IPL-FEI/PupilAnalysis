@@ -5,7 +5,11 @@ PupilAnalysis is a code developed in the R platform for pupil signal processing.
 This code requires a database (.csv), which in our research was obtained through an eye tracking device (Tobii TX300).
 
 This code shows how to do:
-- Preprocessing;
+- Loading original database;
+- Filter to extract only the signal of interest;
+- Function to extract interval of interest;
+- Signal Loss Analysis;
+####- Pre-processing;
 - Variance Analysis;
 - Statistical significance teste;
 - Average curve of the pupil sign.
@@ -14,7 +18,7 @@ In addition, after pre-processing step, the [PCA and MLDA](https://github.com/IP
 
 PCA and MLDA direct in R (coming soon)
 
-## Preprocessing
+## Pre-processing
 
 In this step is done the reconstruction of the missing data intervals.
 
