@@ -6,8 +6,8 @@ This code requires a database (.csv), which in our research was obtained through
 This code shows how to do:  
 - Loading original database;
 - Filter to extract only the signal of interest;
-- Function to extract interval of interest;
-- Signal Loss Analysis;
+- Function to cut and extract interval of interest;
+- Missing Data Analysis;
 - **Pre-processing**;
 - Variance Analysis;
 - Statistical significance teste;
