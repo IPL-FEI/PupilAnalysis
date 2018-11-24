@@ -18,6 +18,12 @@ PCA and MLDA direct in R (coming soon)
 #### How it works:
 Under contruction
 
+![Image](scr/Pre0.png)
+![Image](scr/Pre1.png)
+![Image](scr/Pre2.png)
+![Image](scr/Pre3.png)
+
+
 ## Variance Analysis
 #### How it works:
 Under contruction
