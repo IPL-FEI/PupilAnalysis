@@ -10,7 +10,7 @@ This code shows how to do:
 - Missing Data Analysis;
 - **Pre-processing**;
 - Variance Analysis;
-- Statistical significance teste;
+- Statistical significance test;
 - Average curve of the pupil sign.
 
 In addition, after pre-processing step, the [PCA and MLDA](https://github.com/IPL-FEI/SiProcess) can be used for feature extraction.
@@ -43,7 +43,7 @@ Example with 220 seconds of recording. Signal before and after pre-processing.
 
 ## Variance Analysis
 
-## Statistical significance teste
+## Statistical significance test
 
 ## Average curve of the pupil sign
 
